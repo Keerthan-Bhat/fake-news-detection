@@ -12,7 +12,7 @@ MODEL_PATH = "models/fake_news_model.joblib"
 DATA_PATH = "data/fake_and_real_news.csv"
 
 # ✅ ADD YOUR API KEY HERE LATER
-NEWS_API_KEY = "3c88fe754553448c94f3abcb092b23c3"
+NEWS_API_KEY = "YOUR_API_KEY"
 
 # ---------------- LOAD MODEL ----------------
 @st.cache_resource
